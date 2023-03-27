@@ -1,3 +1,10 @@
+
+# CAUTION: 
+**This is a public fork of the public Microsoft FHIR-Converter repository intended to only support upstream repository synch and/or contributions.  Please ensure you are not adding any b.well-specific implementatin code and/or intellectual property in this repo.**
+
+This repository is mirrored to b.well's implementation of the FHIR-Converter in a private repo located in the [enterprise.fhir.converter](https://github.com/icanbwell/enterprise.fhir.converter) repository.  The enterprise.fhir.converter repo should be used to apply additional functionality and customizations required for b.well's software systems and/or other purposes.
+
+#
 # FHIR Converter
 
 FHIR Converter is an open source project that enables conversion of health data from legacy formats to FHIR.
